@@ -1,6 +1,6 @@
 numpy
 matplotlib
 joblib
-tensorflow
-sklearn
+tensorflow[and-cuda]
+scikit-learn
 scipy
